@@ -72,7 +72,7 @@ body{
   transform:rotateY(180deg);
   border-color:white;
   transform-style: preserve-3d;
-  transition: transform 0.5s;
+  transition: transform 1.5s;
 }
 
 
@@ -110,7 +110,7 @@ body{
 
 .mid-container .Box .Box-Back p {
 
-  transform: rotateY(-360deg); 
+  transform: rotateY(-60deg); 
   color: white;
   font-size: 16px;
   text-align: center;
